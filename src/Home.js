@@ -45,9 +45,9 @@ const Home=()=>{
                         <a href="/register" type="button " className="btn ">Resgister</a>
                         <p className="card-title">Contest Details:<b> The contest is nothing but a mock test for Diploma in Computer/IT Group, aimed to provide valuable knowledge. The syllabus for the contest is given above please go through it.</b> </p>
                         <p className="card-title"><b>Benefits of Contest:</b>
-You will get mentorship for your further studies.
-also, Will get Admission Guidance for DSE  Admission.
-</p>
+                            You will get mentorship for your further studies.
+                            also, Will get Admission Guidance for DSE  Admission.
+                </p>
                         <p className="display-6">Organized by  <img src={logo} className="img-fluid" alt="contest by cwipedia"/> </p>
                     </div>
                 </div>
