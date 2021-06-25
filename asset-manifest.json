@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GHRIET-DC/static/css/main.a8e48dae.chunk.css",
-    "main.js": "/GHRIET-DC/static/js/main.2c17e411.chunk.js",
-    "main.js.map": "/GHRIET-DC/static/js/main.2c17e411.chunk.js.map",
-    "runtime-main.js": "/GHRIET-DC/static/js/runtime-main.f9721ae0.js",
-    "runtime-main.js.map": "/GHRIET-DC/static/js/runtime-main.f9721ae0.js.map",
-    "static/js/2.e8517589.chunk.js": "/GHRIET-DC/static/js/2.e8517589.chunk.js",
-    "static/js/2.e8517589.chunk.js.map": "/GHRIET-DC/static/js/2.e8517589.chunk.js.map",
-    "index.html": "/GHRIET-DC/index.html",
-    "static/css/main.a8e48dae.chunk.css.map": "/GHRIET-DC/static/css/main.a8e48dae.chunk.css.map",
-    "static/js/2.e8517589.chunk.js.LICENSE.txt": "/GHRIET-DC/static/js/2.e8517589.chunk.js.LICENSE.txt",
-    "static/media/learn.8622811c.gif": "/GHRIET-DC/static/media/learn.8622811c.gif"
+    "main.css": "/static/css/main.a8e48dae.chunk.css",
+    "main.js": "/static/js/main.2c17e411.chunk.js",
+    "main.js.map": "/static/js/main.2c17e411.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3bdb120.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3bdb120.js.map",
+    "static/js/2.2ff8216a.chunk.js": "/static/js/2.2ff8216a.chunk.js",
+    "static/js/2.2ff8216a.chunk.js.map": "/static/js/2.2ff8216a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a8e48dae.chunk.css.map": "/static/css/main.a8e48dae.chunk.css.map",
+    "static/js/2.2ff8216a.chunk.js.LICENSE.txt": "/static/js/2.2ff8216a.chunk.js.LICENSE.txt",
+    "static/media/learn.8622811c.gif": "/static/media/learn.8622811c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9721ae0.js",
-    "static/js/2.e8517589.chunk.js",
+    "static/js/runtime-main.b3bdb120.js",
+    "static/js/2.2ff8216a.chunk.js",
     "static/css/main.a8e48dae.chunk.css",
     "static/js/main.2c17e411.chunk.js"
   ]
